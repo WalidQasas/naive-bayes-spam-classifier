@@ -1,2 +1,14 @@
-# naive-bayes-spam-classifier
-This project demonstrates a complete SMS spam classification system using the Naive Bayes algorithm. It walks through text preprocessing, Bag of Words implementation from scratch, Naive Bayes probability math, and a final scikit-learn implementation for comparison. Ideal for educational purposes and understanding the math behind spam detection.
+# SMS Spam Classifier using Naive Bayes
+
+This project explores spam message classification using the Naive Bayes algorithm, with both a custom implementation and one using scikit-learn.
+
+## Contents
+- Manual Bag of Words implementation
+- Naive Bayes from scratch
+- Accuracy evaluation and discussion
+
+## Dataset
+- [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+
+## Author
+[Your Name]
